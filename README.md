@@ -1,2 +1,2 @@
 # om-12
-author-om rkhyani
+author-om rakhyani
